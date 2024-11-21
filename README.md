@@ -1,3 +1,3 @@
 A continueacion se anexa el respectivo diagrama de clases
 
-![Diagrama de clase] https://github.com/JeremyRamirez03/Imagenes/blob/main/Diagrama%20de%20clase/Diagrama%20de%20clases%20Proyecto%20Final.png
+![Diagrama de clase] (https://github.com/JeremyRamirez03/Imagenes/blob/main/Diagrama%20de%20clase/Diagrama%20de%20clases%20Proyecto%20Final.png)
